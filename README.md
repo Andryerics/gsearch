@@ -4,4 +4,4 @@
 ## Installation
 
 ```bash
-pip install gsearch
+pip install ggsearch
